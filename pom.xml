@@ -21,10 +21,10 @@
 
 
     <groupId>io.github.microapplet</groupId>
-    <artifactId>microapplet</artifactId>
+    <artifactId>MicroApplet</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Micro Applet</name>
+    <name>MicroApplet</name>
     <url>https://github.com/MicroApplet/MicroApplet</url>
 
     <description>Micro Applet</description>
@@ -176,6 +176,7 @@
                     <goals>deploy</goals>
                 </configuration>
             </plugin>
+
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
